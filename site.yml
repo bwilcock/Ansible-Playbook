@@ -4,4 +4,4 @@
   gather_facts: false
   
   roles:
-  -  cisco_show
+  - cisco_show
